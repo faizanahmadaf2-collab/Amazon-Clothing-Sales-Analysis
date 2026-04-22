@@ -6,4 +6,6 @@ Data Modelling
 
 <img width="1340" height="751" alt="image" src="https://github.com/user-attachments/assets/27eb0935-96fc-4951-b747-03894ce2d033" />
 
+
+
 In this Project, I have used Power query to clean and validate the dataset. Created calculated measures and calculated columns for multiple factors.
